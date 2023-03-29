@@ -37,7 +37,6 @@ Provinces and districts affected by the recent earthquake in Turkey
 
 ## Gaziantep
 ![Gaziantep container city settlements](https://user-images.githubusercontent.com/38729621/228684600-efa7587b-055d-469a-9076-4bee55e52c77.png)
-ntep
 
 ## Osmaniye
 ![Osmaniye container city settlements](https://user-images.githubusercontent.com/38729621/228684682-0f1429df-6c1d-4c69-8fdd-c43fd5f56379.png)
