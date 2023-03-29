@@ -31,6 +31,13 @@
 - Providing information about safe and easily accesable tent zones in earthquake affected areas.
 - Determining areas which have access to the main roads, water supplies and electricity.
 
+---
+
+# Requirements
+-QGIS software installation and use
+-Using mapping software (QGIS) to identify suitable areas and map
+-Gathering information on the topography, buildings, people density, roads, water supplies, and other geographical characteristics in the earthquake zone.
+-Mapping of the project in line with the plans made and determined areas.
 
 ---
 
