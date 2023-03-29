@@ -29,7 +29,6 @@ Provinces and districts affected by the recent earthquake in Turkey
 2) Data: Open Street Map,Google Earth,General Directorate of Mapping
 
 
-
 # Maps 
 
 ### Kahramanmaraş by Göktuğ Gökay
