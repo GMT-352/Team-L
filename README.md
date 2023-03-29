@@ -12,21 +12,26 @@
 
 #**Team Members**
  
-👤 Hikmet Barış Demir => 21733007
+👤 Hikmet Barış DEMİR => 21733007
 
-👤 Eda Melleç => 21967651
+👤 Eda MELLEÇ => 21967651
 
-👤 Hikmet Barış Demir => 21733007
+👤 Göktuğ GÖKAY => 21733007
 
 👤 Neslihan GÖZMEN=> 21833149
 
-👤 Hikmet Barış Demir => 21733007
-
-👤 Bahadır Öztürk => 21967698
+👤 Bahadır ÖZTÜRK => 21967698
 
 # A case study (region of interest):
 **Determining where the container settlements to be established in the earthquake zone that took place on February 6th will be established.**
 
+---
+
+# Aim and Objectives:
+-Providing information about safe and easily accesable tent zones in earthquake affected areas
+-
+
+---
 
 # Data: 
 -Open Street Map
@@ -35,7 +40,7 @@
 
 -General Directorate of Mapping
 
-
+---
 
 # Maps 
 
