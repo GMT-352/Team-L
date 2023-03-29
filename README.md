@@ -28,7 +28,10 @@
 Determining where the container settlements to be established in the earthquake zone that took place on February 6th will be established.
 
 
-2) Data: Open Street Map,Google Earth,General Directorate of Mapping
+# Data: 
+-Open Street Map
+-Google Earth
+-General Directorate of Mapping
 
 
 
