@@ -21,6 +21,8 @@
 👤 Neslihan GÖZMEN=> 21833149
 
 👤 Hikmet Barış Demir => 21733007
- ne yazayım 
+
+👤 Bahadır Öztürk => 21967698
 
 1) A case study (region of interest):
+Provinces and districts affected by the recent earthquake in Turkey
