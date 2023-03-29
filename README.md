@@ -24,10 +24,12 @@
 
 👤 Bahadır Öztürk => 21967698
 
-1) A case study (region of interest):
-Provinces and districts affected by the recent earthquake in Turkey
+# A case study (region of interest):
+Determining where the container settlements to be established in the earthquake zone that took place on February 6th will be established.
+
+
 2) Data: Open Street Map,Google Earth,General Directorate of Mapping
-3) Requirements: 
+
 
 
 # Maps 
