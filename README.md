@@ -35,8 +35,11 @@
 
 # Requirements
 -QGIS software installation and use
+
 -Using mapping software (QGIS) to identify suitable areas and map
+
 -Gathering information on the topography, buildings, people density, roads, water supplies, and other geographical characteristics in the earthquake zone.
+
 -Mapping of the project in line with the plans made and determined areas.
 
 ---
