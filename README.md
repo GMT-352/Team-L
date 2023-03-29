@@ -30,7 +30,9 @@ Determining where the container settlements to be established in the earthquake 
 
 # Data: 
 -Open Street Map
+
 -Google Earth
+
 -General Directorate of Mapping
 
 
