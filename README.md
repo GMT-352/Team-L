@@ -25,7 +25,7 @@
 👤 Bahadır Öztürk => 21967698
 
 # A case study (region of interest):
-Determining where the container settlements to be established in the earthquake zone that took place on February 6th will be established.
+**Determining where the container settlements to be established in the earthquake zone that took place on February 6th will be established.**
 
 
 # Data: 
