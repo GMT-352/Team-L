@@ -34,7 +34,7 @@
 ---
 
 # Requirements
--QGIS software installation and use
+-QGIS software installation and use.
 
 -Using mapping software (QGIS) to identify suitable areas and map
 
