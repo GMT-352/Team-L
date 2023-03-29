@@ -28,8 +28,9 @@
 ---
 
 # Aim and Objectives:
--Providing information about safe and easily accesable tent zones in earthquake affected areas
--
+- Providing information about safe and easily accesable tent zones in earthquake affected areas.
+- Determining areas which have access to the main roads, water supplies and electricity.
+
 
 ---
 
