@@ -18,7 +18,7 @@
 
 👤 Göktuğ GÖKAY => 21967522
 
-👤 Neslihan GÖZMEN=> 21833149
+👤 Neslihan GOZMEN=> 21833149
 
 👤 Bahadır ÖZTÜRK => 21967698
 
