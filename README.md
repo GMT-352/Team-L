@@ -12,7 +12,7 @@
 
 #**Team Members**
  
-👤 Hikmet Barýþ DEMİR => 21733007
+👤 Hikmet Barış DEMİR => 21733007
 
 👤 Eda MELLEÇ => 21967651
 
