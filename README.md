@@ -58,7 +58,7 @@
 ### Kahramanmaraş by Göktuğ Gökay
 ![temp_cont_city](https://user-images.githubusercontent.com/38729621/228684482-9ac42c70-d721-44a2-8a00-49feac5c0442.png)
 
-### Gaziantep by Hikmet Barış Demir
+### Gaziantep by Hikmet Barış DEM�R
 ![Gaziantep container city settlements](https://user-images.githubusercontent.com/38729621/228684600-efa7587b-055d-469a-9076-4bee55e52c77.png)
 
 ### Osmaniye by Neslihan Gözmen 
