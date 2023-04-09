@@ -53,6 +53,11 @@
 
 ---
 
+# Query
+-We have arranged places where temporary container cities can be built. We preferred places close to water resources, transportation and AFAD building for these cities. These places we usually preferred places below a distance of 10km. For this purpose, we calculated the distance to the cities to be established by using the distance command with sql.
+
+---
+
 # Maps 
 
 ### Kahramanmaraþ by Göktuð GÖKAY
