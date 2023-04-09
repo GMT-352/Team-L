@@ -61,7 +61,7 @@
 # Maps 
 
 ### Kahramanmaraþ by Göktuð GÖKAY
-![temp_cont_city](https://user-images.githubusercontent.com/38729621/228684482-9ac42c70-d721-44a2-8a00-49feac5c0442.png)
+![NEW_Kahramanmaraş_Map](https://user-images.githubusercontent.com/115430471/230783387-b15030bf-9a37-44f4-bbdd-97c889adc72f.png)
 
 ### Gaziantep by Hikmet Barýþ DEMÝR
 ![Gaziantep container city settlements](https://user-images.githubusercontent.com/38729621/228684600-efa7587b-055d-469a-9076-4bee55e52c77.png)
