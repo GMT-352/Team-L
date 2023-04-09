@@ -45,11 +45,11 @@
 ---
 
 # Data: 
--Open Street Map
+---Open Street Map
 
--Google Earth
+---Google Earth
 
--General Directorate of Mapping
+---General Directorate of Mapping
 
 ---
 
