@@ -20,7 +20,7 @@
 
 👤 Neslihan GÖZMEN=> 21833149
 
-👤 Bahadýr ÖZTÜRK => 21967698
+👤 Bahadır ÖZTÜRK => 21967698
 
 # A case study (region of interest):
 **Determining where the container settlements to be established in the earthquake zone that took place on February 6th will be established.**
@@ -65,8 +65,9 @@
 ### Kahramanmaraþ by Göktuð GÖKAY
 ![NEW_Kahramanmaraş_Map](https://user-images.githubusercontent.com/115430471/230783387-b15030bf-9a37-44f4-bbdd-97c889adc72f.png)
 
-### Gaziantep by Hikmet Barýþ DEMÝR
-![Gaziantep container city settlements](https://user-images.githubusercontent.com/38729621/228684600-efa7587b-055d-469a-9076-4bee55e52c77.png)
+### Gaziantep by Hikmet Barış DEMİR
+![Gaziantep_New_Map](https://user-images.githubusercontent.com/38729621/231264911-e8c3c475-4d4b-4aa4-ad2a-4d8ed7f2951c.png)
+
 
 ### Osmaniye by Neslihan GÖZMAN 
 ![Osmaniye container city settlements](https://user-images.githubusercontent.com/38729621/228684682-0f1429df-6c1d-4c69-8fdd-c43fd5f56379.png)
